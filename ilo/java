@@ -1,0 +1,11 @@
+let js = 'amazing';
+console.log(40 + 8 + 23 - 10);
+
+console.log("Joanas");
+console.log(23);
+
+let firstname = "Joe";
+console.log(firstname);
+console.log(firstname);
+console.log(firstname);
+
